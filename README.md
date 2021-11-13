@@ -1,4 +1,4 @@
-# us-rescue-pack
+# Los Angeles Fire Dept. vehicle pack
 ******************************************
 Disclaimer
 ******************************************
